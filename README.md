@@ -1,2 +1,4 @@
 # hello-world
-Its my first repositary
+Привет, всем!
+
+Я разработчик MS DAX, также мне нравится C# и я хотел бы изучить .net.
